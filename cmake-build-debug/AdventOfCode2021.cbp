@@ -92,6 +92,12 @@
 		<Unit filename="/Users/mateusz/Documents/C++/AdventOfCode2021/D2.h">
 			<Option target="AdventOfCode2021"/>
 		</Unit>
+		<Unit filename="/Users/mateusz/Documents/C++/AdventOfCode2021/D3.cpp">
+			<Option target="AdventOfCode2021"/>
+		</Unit>
+		<Unit filename="/Users/mateusz/Documents/C++/AdventOfCode2021/D3.h">
+			<Option target="AdventOfCode2021"/>
+		</Unit>
 		<Unit filename="/Users/mateusz/Documents/C++/AdventOfCode2021/Reader.cpp">
 			<Option target="AdventOfCode2021"/>
 		</Unit>

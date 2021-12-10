@@ -74,12 +74,12 @@ clean: CMakeFiles/AdventOfCode2021.dir/clean
 CMakeFiles/AdventOfCode2021.dir/all:
 	$(MAKE) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/depend
 	$(MAKE) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5 "Built target AdventOfCode2021"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target AdventOfCode2021"
 .PHONY : CMakeFiles/AdventOfCode2021.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/AdventOfCode2021.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/AdventOfCode2021.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/AdventOfCode2021.dir/rule
