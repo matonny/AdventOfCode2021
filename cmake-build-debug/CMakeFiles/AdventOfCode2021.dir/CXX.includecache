@@ -6,17 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/mateusz/Documents/C++/AdventOfCode2021/D1.cpp
-vector
--
-D1.h
-/Users/mateusz/Documents/C++/AdventOfCode2021/D1.h
-
 /Users/mateusz/Documents/C++/AdventOfCode2021/D1.h
 string
 -
 Reader.h
 /Users/mateusz/Documents/C++/AdventOfCode2021/Reader.h
+
+/Users/mateusz/Documents/C++/AdventOfCode2021/D2.h
+string
+-
 
 /Users/mateusz/Documents/C++/AdventOfCode2021/Reader.h
 vector
@@ -29,4 +27,6 @@ D1.h
 /Users/mateusz/Documents/C++/AdventOfCode2021/D1.h
 Reader.h
 /Users/mateusz/Documents/C++/AdventOfCode2021/Reader.h
+D2.h
+/Users/mateusz/Documents/C++/AdventOfCode2021/D2.h
 

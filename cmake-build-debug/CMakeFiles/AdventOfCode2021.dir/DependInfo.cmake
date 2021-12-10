@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/mateusz/Documents/C++/AdventOfCode2021/D1.cpp" "/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles/AdventOfCode2021.dir/D1.cpp.o"
+  "/Users/mateusz/Documents/C++/AdventOfCode2021/D2.cpp" "/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles/AdventOfCode2021.dir/D2.cpp.o"
   "/Users/mateusz/Documents/C++/AdventOfCode2021/Reader.cpp" "/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles/AdventOfCode2021.dir/Reader.cpp.o"
   "/Users/mateusz/Documents/C++/AdventOfCode2021/main.cpp" "/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles/AdventOfCode2021.dir/main.cpp.o"
   )
