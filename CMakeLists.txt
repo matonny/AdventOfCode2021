@@ -3,4 +3,4 @@ project(AdventOfCode2021)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(AdventOfCode2021 main.cpp Reader.cpp Reader.h D1.cpp D1.h D2.cpp D2.h D3.cpp D3.h D4.cpp D4.h)
+add_executable(AdventOfCode2021 main.cpp Reader.cpp Reader.h D1.cpp D1.h D2.cpp D2.h D3.cpp D3.h D4.cpp D4.h D5.cpp D5.h)

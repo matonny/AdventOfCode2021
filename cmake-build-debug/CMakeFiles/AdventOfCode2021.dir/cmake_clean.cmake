@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AdventOfCode2021.dir/D2.cpp.o"
   "CMakeFiles/AdventOfCode2021.dir/D3.cpp.o"
   "CMakeFiles/AdventOfCode2021.dir/D4.cpp.o"
+  "CMakeFiles/AdventOfCode2021.dir/D5.cpp.o"
   "CMakeFiles/AdventOfCode2021.dir/Reader.cpp.o"
   "CMakeFiles/AdventOfCode2021.dir/main.cpp.o"
 )

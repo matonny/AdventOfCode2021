@@ -6,19 +6,49 @@
 
 #IncludeRegexTransform: 
 
-/Users/mateusz/Documents/C++/AdventOfCode2021/D4.cpp
+/Users/mateusz/Documents/C++/AdventOfCode2021/D1.h
 string
 -
-D4.h
-/Users/mateusz/Documents/C++/AdventOfCode2021/D4.h
 Reader.h
 /Users/mateusz/Documents/C++/AdventOfCode2021/Reader.h
+
+/Users/mateusz/Documents/C++/AdventOfCode2021/D2.h
+string
+-
+
+/Users/mateusz/Documents/C++/AdventOfCode2021/D3.h
+string
+-
 
 /Users/mateusz/Documents/C++/AdventOfCode2021/D4.h
 utility
 -
 
+/Users/mateusz/Documents/C++/AdventOfCode2021/D5.cpp
+D5.h
+/Users/mateusz/Documents/C++/AdventOfCode2021/D5.h
+Reader.h
+/Users/mateusz/Documents/C++/AdventOfCode2021/Reader.h
+
+/Users/mateusz/Documents/C++/AdventOfCode2021/D5.h
+string
+-
+
 /Users/mateusz/Documents/C++/AdventOfCode2021/Reader.h
 vector
 -
+
+/Users/mateusz/Documents/C++/AdventOfCode2021/main.cpp
+iostream
+-
+D1.h
+/Users/mateusz/Documents/C++/AdventOfCode2021/D1.h
+D2.h
+/Users/mateusz/Documents/C++/AdventOfCode2021/D2.h
+D3.h
+/Users/mateusz/Documents/C++/AdventOfCode2021/D3.h
+D4.h
+/Users/mateusz/Documents/C++/AdventOfCode2021/D4.h
+D5.h
+/Users/mateusz/Documents/C++/AdventOfCode2021/D5.h
 
