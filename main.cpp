@@ -4,6 +4,7 @@
 #include "Reader.h"
 #include "D2.h"
 #include "D3.h"
+#include "D4.h"
 
 int main()
 {
@@ -19,5 +20,9 @@ int main()
     std::cout << D3::solveFirst("D3_1") << std::endl;
     std::cout << "Solution to 2nd problem of Day 3 is: ";
     std::cout << D3::solveSecond("D3_1") << std::endl;
+    std::cout << "Solution to 1st problem of Day 4 is: ";
+    std::cout << D4::solveFirst("D4_1") << std::endl;
+    std::cout << "Solution to 2nd problem of Day 4 is: ";
+    std::cout << D4::solveSecond("D4_1") << std::endl;
     return 0;
 }
