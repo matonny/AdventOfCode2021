@@ -21,6 +21,10 @@ CMakeFiles/AdventOfCode2021.dir/D5.cpp.o: ../D5.cpp
 CMakeFiles/AdventOfCode2021.dir/D5.cpp.o: ../D5.h
 CMakeFiles/AdventOfCode2021.dir/D5.cpp.o: ../Reader.h
 
+CMakeFiles/AdventOfCode2021.dir/D6.cpp.o: ../D6.cpp
+CMakeFiles/AdventOfCode2021.dir/D6.cpp.o: ../D6.h
+CMakeFiles/AdventOfCode2021.dir/D6.cpp.o: ../Reader.h
+
 CMakeFiles/AdventOfCode2021.dir/Reader.cpp.o: ../Reader.cpp
 CMakeFiles/AdventOfCode2021.dir/Reader.cpp.o: ../Reader.h
 
@@ -29,6 +33,7 @@ CMakeFiles/AdventOfCode2021.dir/main.cpp.o: ../D2.h
 CMakeFiles/AdventOfCode2021.dir/main.cpp.o: ../D3.h
 CMakeFiles/AdventOfCode2021.dir/main.cpp.o: ../D4.h
 CMakeFiles/AdventOfCode2021.dir/main.cpp.o: ../D5.h
+CMakeFiles/AdventOfCode2021.dir/main.cpp.o: ../D6.h
 CMakeFiles/AdventOfCode2021.dir/main.cpp.o: ../Reader.h
 CMakeFiles/AdventOfCode2021.dir/main.cpp.o: ../main.cpp
 

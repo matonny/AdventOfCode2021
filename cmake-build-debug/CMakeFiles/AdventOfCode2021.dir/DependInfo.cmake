@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/mateusz/Documents/C++/AdventOfCode2021/D3.cpp" "/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles/AdventOfCode2021.dir/D3.cpp.o"
   "/Users/mateusz/Documents/C++/AdventOfCode2021/D4.cpp" "/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles/AdventOfCode2021.dir/D4.cpp.o"
   "/Users/mateusz/Documents/C++/AdventOfCode2021/D5.cpp" "/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles/AdventOfCode2021.dir/D5.cpp.o"
+  "/Users/mateusz/Documents/C++/AdventOfCode2021/D6.cpp" "/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles/AdventOfCode2021.dir/D6.cpp.o"
   "/Users/mateusz/Documents/C++/AdventOfCode2021/Reader.cpp" "/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles/AdventOfCode2021.dir/Reader.cpp.o"
   "/Users/mateusz/Documents/C++/AdventOfCode2021/main.cpp" "/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles/AdventOfCode2021.dir/main.cpp.o"
   )

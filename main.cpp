@@ -5,6 +5,7 @@
 #include "D3.h"
 #include "D4.h"
 #include "D5.h"
+#include "D6.h"
 
 int main()
 {
@@ -24,9 +25,11 @@ int main()
 //    std::cout << D4::solveFirst("D4_1") << std::endl;
 //    std::cout << "Solution to 2nd problem of Day 4 is: ";
 //    std::cout << D4::solveSecond("D4_1") << std::endl;
-    std::cout << "Solution to 1st problem of Day 5 is: ";
-    std::cout << D5::solveFirst("D5_1") << std::endl;
-    std::cout << "Solution to 2nd problem of Day 5 is: ";
-    std::cout << D5::solveSecond("D5_1") << std::endl;
+//    std::cout << "Solution to 1st problem of Day 5 is: ";
+//    std::cout << D5::solveFirst("D5_1") << std::endl;
+//    std::cout << "Solution to 2nd problem of Day 5 is: ";
+//    std::cout << D5::solveSecond("D5_1") << std::endl;
+    std::cout << "Solution to 1st problem of Day 6 is: ";
+    std::cout << D6::solveFirst("D6_1") << std::endl;
     return 0;
 }

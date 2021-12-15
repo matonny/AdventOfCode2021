@@ -24,13 +24,17 @@ string
 utility
 -
 
-/Users/mateusz/Documents/C++/AdventOfCode2021/D5.cpp
-D5.h
 /Users/mateusz/Documents/C++/AdventOfCode2021/D5.h
+string
+-
+
+/Users/mateusz/Documents/C++/AdventOfCode2021/D6.cpp
 Reader.h
 /Users/mateusz/Documents/C++/AdventOfCode2021/Reader.h
+D6.h
+/Users/mateusz/Documents/C++/AdventOfCode2021/D6.h
 
-/Users/mateusz/Documents/C++/AdventOfCode2021/D5.h
+/Users/mateusz/Documents/C++/AdventOfCode2021/D6.h
 string
 -
 
@@ -51,4 +55,6 @@ D4.h
 /Users/mateusz/Documents/C++/AdventOfCode2021/D4.h
 D5.h
 /Users/mateusz/Documents/C++/AdventOfCode2021/D5.h
+D6.h
+/Users/mateusz/Documents/C++/AdventOfCode2021/D6.h
 
