@@ -22,6 +22,7 @@ public:
     static void putDiagonalLine(std::pair<int, int> start, std::pair<int, int> end,  std::vector<std::vector<int>> &area);
     static int countOverlaps(std::vector<std::vector<int>> &area);
     static bool isDiagonalLine(std::pair<int, int> fstPnt, std::pair<int, int> sndPnt);
+    static char getExtra(std::string);
 };
 
 

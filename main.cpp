@@ -7,6 +7,7 @@
 #include "D5.h"
 #include "D6.h"
 #include "D7.h"
+#include "D8.h"
 
 int main()
 {
@@ -30,11 +31,15 @@ int main()
 //    std::cout << D5::solveFirst("D5_1") << std::endl;
 //    std::cout << "Solution to 2nd problem of Day 5 is: ";
 //    std::cout << D5::solveSecond("D5_1") << std::endl;
-    std::cout << "Solution to 1st problem of Day 6 is: ";
-    std::cout << D6::solveFirst("D6_1") << std::endl;
-    std::cout << "Solution to 1st problem of Day 7 is: ";
-    std::cout << D7::solveFirst("D7_1") << std::endl;
-    std::cout << "Solution to 2nd problem of Day 7 is: ";
-    std::cout << D7::solveSecond("D7_1") << std::endl;
+//    std::cout << "Solution to 1st problem of Day 6 is: ";
+//    std::cout << D6::solveFirst("D6_1") << std::endl;
+//    std::cout << "Solution to 1st problem of Day 7 is: ";
+//    std::cout << D7::solveFirst("D7_1") << std::endl;
+//    std::cout << "Solution to 2nd problem of Day 7 is: ";
+//    std::cout << D7::solveSecond("D7_1") << std::endl;
+    std::cout << "Soultion to 1st problem of Day 8 is: ";
+    std::cout << D8::solveFirst("D8_1") << std::endl;
+    std::cout << "Soultion to 2nd problem of Day 8 is: ";
+    std::cout << D8::solveSecond("D8_1") << std::endl;
     return 0;
 }

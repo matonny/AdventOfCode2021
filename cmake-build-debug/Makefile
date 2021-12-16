@@ -312,6 +312,33 @@ D7.cpp.s:
 	$(MAKE) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D7.cpp.s
 .PHONY : D7.cpp.s
 
+D8.o: D8.cpp.o
+
+.PHONY : D8.o
+
+# target to build an object file
+D8.cpp.o:
+	$(MAKE) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D8.cpp.o
+.PHONY : D8.cpp.o
+
+D8.i: D8.cpp.i
+
+.PHONY : D8.i
+
+# target to preprocess a source file
+D8.cpp.i:
+	$(MAKE) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D8.cpp.i
+.PHONY : D8.cpp.i
+
+D8.s: D8.cpp.s
+
+.PHONY : D8.s
+
+# target to generate assembly for a file
+D8.cpp.s:
+	$(MAKE) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D8.cpp.s
+.PHONY : D8.cpp.s
+
 Reader.o: Reader.cpp.o
 
 .PHONY : Reader.o
@@ -396,6 +423,9 @@ help:
 	@echo "... D7.o"
 	@echo "... D7.i"
 	@echo "... D7.s"
+	@echo "... D8.o"
+	@echo "... D8.i"
+	@echo "... D8.s"
 	@echo "... Reader.o"
 	@echo "... Reader.i"
 	@echo "... Reader.s"
