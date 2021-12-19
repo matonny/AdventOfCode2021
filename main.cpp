@@ -10,6 +10,7 @@
 #include "D8.h"
 #include "D9.h"
 #include "D10.h"
+#include "D11.h"
 
 int main()
 {
@@ -51,5 +52,9 @@ int main()
     std::cout << D10::solveFirst("D10_1") << std::endl;
     std::cout << "Soultion to 2nd problem of Day 10 is: ";
     std::cout << D10::solveSecond("D10_1") << std::endl;
+    std::cout << "Soultion to 1st problem of Day 11 is: ";
+    std::cout << D11::solveFirst("D11_2") << std::endl;
+    std::cout << "Soultion to 2nd problem of Day 11 is: ";
+    std::cout << D11::solveSecond("D11_1") << std::endl;
     return 0;
 }

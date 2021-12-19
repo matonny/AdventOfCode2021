@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "AdventOfCode2021.pdb"
   "CMakeFiles/AdventOfCode2021.dir/D1.cpp.o"
   "CMakeFiles/AdventOfCode2021.dir/D10.cpp.o"
+  "CMakeFiles/AdventOfCode2021.dir/D11.cpp.o"
   "CMakeFiles/AdventOfCode2021.dir/D2.cpp.o"
   "CMakeFiles/AdventOfCode2021.dir/D3.cpp.o"
   "CMakeFiles/AdventOfCode2021.dir/D4.cpp.o"
