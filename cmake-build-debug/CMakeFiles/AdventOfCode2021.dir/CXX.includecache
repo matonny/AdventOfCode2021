@@ -26,6 +26,16 @@ string
 Reader.h
 /Users/mateusz/Documents/C++/AdventOfCode2021/Reader.h
 
+/Users/mateusz/Documents/C++/AdventOfCode2021/D12.cpp
+D12.h
+/Users/mateusz/Documents/C++/AdventOfCode2021/D12.h
+
+/Users/mateusz/Documents/C++/AdventOfCode2021/D12.h
+string
+-
+Reader.h
+/Users/mateusz/Documents/C++/AdventOfCode2021/Reader.h
+
 /Users/mateusz/Documents/C++/AdventOfCode2021/D2.h
 string
 -
@@ -91,4 +101,6 @@ D10.h
 /Users/mateusz/Documents/C++/AdventOfCode2021/D10.h
 D11.h
 /Users/mateusz/Documents/C++/AdventOfCode2021/D11.h
+D12.h
+/Users/mateusz/Documents/C++/AdventOfCode2021/D12.h
 
