@@ -1,5 +1,5 @@
-CMakeFiles/AdventOfCode2021.dir/main.cpp.o: \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/main.cpp \
+CMakeFiles/AdventOfCode2021.dir/D13.cpp.o: \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/D13.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/pthread.h \
@@ -223,26 +223,7 @@ CMakeFiles/AdventOfCode2021.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/bitset \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__bit_reference \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D1.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/D13.h \
   /Users/mateusz/Documents/C++/AdventOfCode2021/Reader.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/vector \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__split_buffer \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D2.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D3.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D4.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D5.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D6.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D7.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D8.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/map \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__tree \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__node_handle \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/optional \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D9.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D10.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/stack \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/deque \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D11.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D12.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/queue \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D13.h
+  /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__split_buffer
