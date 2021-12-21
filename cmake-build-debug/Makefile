@@ -249,6 +249,30 @@ D13.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D13.cpp.s
 .PHONY : D13.cpp.s
 
+D14.o: D14.cpp.o
+.PHONY : D14.o
+
+# target to build an object file
+D14.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D14.cpp.o
+.PHONY : D14.cpp.o
+
+D14.i: D14.cpp.i
+.PHONY : D14.i
+
+# target to preprocess a source file
+D14.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D14.cpp.i
+.PHONY : D14.cpp.i
+
+D14.s: D14.cpp.s
+.PHONY : D14.s
+
+# target to generate assembly for a file
+D14.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D14.cpp.s
+.PHONY : D14.cpp.s
+
 D2.o: D2.cpp.o
 .PHONY : D2.o
 
@@ -513,6 +537,9 @@ help:
 	@echo "... D13.o"
 	@echo "... D13.i"
 	@echo "... D13.s"
+	@echo "... D14.o"
+	@echo "... D14.i"
+	@echo "... D14.s"
 	@echo "... D2.o"
 	@echo "... D2.i"
 	@echo "... D2.s"

@@ -13,6 +13,8 @@
 #include "D11.h"
 #include "D12.h"
 #include "D13.h"
+#include "D14.h"
+
 int main()
 {
 //    std::cout << "Solution to 1st problem of Day 1 is: ";
@@ -61,7 +63,11 @@ int main()
 //    std::cout << D12::solveFirst("D12_1") << std::endl;
 //    std::cout << "Soultion to 2nd problem of Day 12 is: ";
 //    std::cout << D12::solveSecond("D12_1") << std::endl;
-    std::cout << "Soultion to 1st problem of Day 13 is: " << std::endl;
-    std::cout << D13::solveFirst("D13_2_Dots", "D13_2_Folds") << std::endl;
-    D13::solveSecond("D13_1_Dots", "D13_1_Folds");
+//    std::cout << "Soultion to 1st problem of Day 13 is: " << std::endl;
+//    std::cout << D13::solveFirst("D13_2_Dots", "D13_2_Folds") << std::endl;
+//    D13::solveSecond("D13_1_Dots", "D13_1_Folds");
+    std::cout << "Soultion to 1st problem of Day 14 is: ";
+    std::cout << D14::solveFirst("D14_2") << std::endl;
+    std::cout << "Soultion to 2st problem of Day 14 is: ";
+    std::cout << D14::solveSecond("D14_1") << std::endl;
 }
