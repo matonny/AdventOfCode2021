@@ -10,11 +10,19 @@
 int D15::solveFirst(std::string fileName){
     std::vector<std::string> rawData = Reader::getFile(fileName);
     std::vector<Node> graph = graphify(rawData);
-    int findSafestPath = dijkstra(graph);
+    int findSafestPath = dijkstra(graph, graph.size()-1);
     return findSafestPath;
 }
 
+int D15::solveSecond(std::string fileName){
+    std::vector<std::string> rawData = Reader::getFile(fileName);
+    std::vector<std::string> scaledData = scale(rawData);
+    std::vector<Node> graph = graphify(scaledData);
+    int findSafestPath = dijkstra(graph, graph.size()-1);
+    return findSafestPath;
+}
 std::vector<Node> D15::graphify(std::vector<std::string> rawData){
+    scale(rawData);
     int size = rawData.size();
     std::vector<Node> result = {};
     for(int i = 0; i < size; i++){
@@ -39,7 +47,7 @@ std::vector<Node> D15::graphify(std::vector<std::string> rawData){
     return result;
 }
 
-int D15::dijkstra(std::vector<Node> graph){
+int D15::dijkstra(std::vector<Node> graph, int target){
     std::vector<int> distances(graph.size(), 10000);
     std::vector<int> previous(graph.size(), -1);
     std::vector<bool> explored(graph.size(), false);
@@ -50,6 +58,9 @@ int D15::dijkstra(std::vector<Node> graph){
     distances[graph[0].id] = 0;
     while(!toExplore.empty()){
         Node* nearestNode = findMin(toExplore, distances);
+        if(nearestNode->id == target){
+            break;
+        }
         explored[nearestNode->id] = true;
         toExplore.erase(std::find(toExplore.begin(), toExplore.end(), nearestNode));
         for(int i = 0; i < nearestNode->neighbours.size(); i++){
@@ -62,7 +73,7 @@ int D15::dijkstra(std::vector<Node> graph){
             }
         }
     }
-    return distances[graph.size()-1];
+    return distances[target];
 }
 Node* D15::findMin(std::vector<Node*> unexploredNodes, std::vector<int> distances){
     Node* minNode = unexploredNodes[0];
@@ -88,4 +99,33 @@ void D15::printPath(std::vector<int> previous){
         std::cout << std::endl;
     }
     std::cout << std::endl;
+}
+std::vector<std::string> D15::scale(std::vector<std::string> rawData){
+    int scale = 5;
+    std::vector<std::string> result = rawData;
+    for(int i = 0; i < rawData.size(); i++){
+        for(int j = 0; j < scale-1; j++){
+            for(int k = 0; k < rawData.size(); k++){
+                char newRisk = (((result[i].at(result.size()*j+k)-48)+1)%10)+48;
+                if(newRisk == 48){
+                    newRisk += 1;
+                }
+                result[i] += newRisk;
+            }
+        }
+    }
+    for(int i = 0; i < scale-1; i++){
+        for(int j = 0; j < rawData.size(); j++){
+            std::string newString = "";
+            for(int k = 0; k < rawData.size()*scale; k++){
+                char newRisk = (((result[rawData.size()*i + j].at(k)-48)+1)%10)+48;
+                if(newRisk == 48){
+                    newRisk += 1;
+                }
+                newString += newRisk;
+            }
+            result.push_back(newString);
+        }
+    }
+    return result;
 }

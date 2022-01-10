@@ -72,5 +72,8 @@ int main()
     std::cout << "Soultion to 2st problem of Day 14 is: ";
     std::cout << D14::solveSecond("D14_1") << std::endl;
     D15 *solution15 = new D15();
+    std::cout << "Soultion to 1st problem of Day 15 is: ";
     std::cout << solution15->solveFirst("D15_1") << std::endl;
+    std::cout << "Soultion to 2nd problem of Day 15 is: ";
+    std::cout << solution15->solveSecond("D15_1") << std::endl;
 }

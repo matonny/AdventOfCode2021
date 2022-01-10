@@ -12,10 +12,12 @@ class D15
 {
 public:
     int solveFirst(std::string fileName);
+    int solveSecond(std::string fileName);
     std::vector<Node> graphify(std::vector<std::string> rawData);
-    int dijkstra(std::vector<Node> graph);
+    int dijkstra(std::vector<Node> graph, int target);
     Node* findMin(std::vector<Node*> unexploredNodes, std::vector<int> distances);
     void printPath(std::vector<int> previous);
+    std::vector<std::string> scale(std::vector<std::string>);
 };
 
 
