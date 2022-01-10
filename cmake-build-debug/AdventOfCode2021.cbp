@@ -116,6 +116,12 @@
 		<Unit filename="/Users/mateusz/Documents/C++/AdventOfCode2021/D14.h">
 			<Option target="AdventOfCode2021"/>
 		</Unit>
+		<Unit filename="/Users/mateusz/Documents/C++/AdventOfCode2021/D15.cpp">
+			<Option target="AdventOfCode2021"/>
+		</Unit>
+		<Unit filename="/Users/mateusz/Documents/C++/AdventOfCode2021/D15.h">
+			<Option target="AdventOfCode2021"/>
+		</Unit>
 		<Unit filename="/Users/mateusz/Documents/C++/AdventOfCode2021/D2.cpp">
 			<Option target="AdventOfCode2021"/>
 		</Unit>
@@ -162,6 +168,12 @@
 			<Option target="AdventOfCode2021"/>
 		</Unit>
 		<Unit filename="/Users/mateusz/Documents/C++/AdventOfCode2021/D9.h">
+			<Option target="AdventOfCode2021"/>
+		</Unit>
+		<Unit filename="/Users/mateusz/Documents/C++/AdventOfCode2021/Node.cpp">
+			<Option target="AdventOfCode2021"/>
+		</Unit>
+		<Unit filename="/Users/mateusz/Documents/C++/AdventOfCode2021/Node.h">
 			<Option target="AdventOfCode2021"/>
 		</Unit>
 		<Unit filename="/Users/mateusz/Documents/C++/AdventOfCode2021/Reader.cpp">
