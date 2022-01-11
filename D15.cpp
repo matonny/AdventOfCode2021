@@ -4,13 +4,14 @@
 
 #include <queue>
 #include <map>
+#include <math.h>
 #include <iostream>
 #include "D15.h"
 
 int D15::solveFirst(std::string fileName){
     std::vector<std::string> rawData = Reader::getFile(fileName);
     std::vector<Node> graph = graphify(rawData);
-    int findSafestPath = dijkstra(graph, graph.size()-1);
+    int findSafestPath = aStar(graph, graph.size()-1);
     return findSafestPath;
 }
 
@@ -18,11 +19,10 @@ int D15::solveSecond(std::string fileName){
     std::vector<std::string> rawData = Reader::getFile(fileName);
     std::vector<std::string> scaledData = scale(rawData);
     std::vector<Node> graph = graphify(scaledData);
-    int findSafestPath = dijkstra(graph, graph.size()-1);
+    int findSafestPath = aStar(graph, graph.size()-1);
     return findSafestPath;
 }
 std::vector<Node> D15::graphify(std::vector<std::string> rawData){
-    scale(rawData);
     int size = rawData.size();
     std::vector<Node> result = {};
     for(int i = 0; i < size; i++){
@@ -47,8 +47,40 @@ std::vector<Node> D15::graphify(std::vector<std::string> rawData){
     return result;
 }
 
+int D15::aStar(std::vector<Node> graph, int target){
+    int width = sqrt(graph.size());
+    std::vector<int> gScore(graph.size(), 100000000);
+    gScore[0] = 0;
+    std::vector<float> fScore(graph.size(), 100000000);
+    fScore[0] = h(0, target, width);
+    std::vector<int> previous(graph.size(), 100000000);
+    std::vector<bool> addedToExplore(graph.size(), false);
+    std::vector<Node*> toExplore = {};
+    toExplore.push_back(&graph[0]);
+    addedToExplore[0] = true;
+    while(!toExplore.empty()){
+        Node* currentNode = findMin(toExplore, fScore);
+        if(currentNode->id == target){
+            return gScore[target];
+        }
+        toExplore.erase(std::find(toExplore.begin(), toExplore.end(), currentNode));
+        for(Node* neighbour : currentNode->neighbours){
+            int potentialG = gScore[currentNode->id] + neighbour->weight;
+            if(potentialG < gScore[neighbour->id]){
+                previous[neighbour->id] = currentNode -> id;
+                gScore[neighbour->id] = potentialG;
+                fScore[neighbour->id] = potentialG + h(neighbour->id, target, width);
+                if(!addedToExplore[neighbour->id]){
+                    toExplore.push_back(neighbour);
+                    addedToExplore[neighbour->id] = true;
+                }
+            }
+        }
+    }
+
+}
 int D15::dijkstra(std::vector<Node> graph, int target){
-    std::vector<int> distances(graph.size(), 10000);
+    std::vector<int> distances(graph.size(), 100000000);
     std::vector<int> previous(graph.size(), -1);
     std::vector<bool> explored(graph.size(), false);
     std::vector<Node*> toExplore = {};
@@ -76,6 +108,15 @@ int D15::dijkstra(std::vector<Node> graph, int target){
     return distances[target];
 }
 Node* D15::findMin(std::vector<Node*> unexploredNodes, std::vector<int> distances){
+    Node* minNode = unexploredNodes[0];
+    for(int i = 1; i < unexploredNodes.size(); i++){
+        if(distances[unexploredNodes[i]->id] < distances[minNode->id]){
+            minNode = unexploredNodes[i];
+        }
+    }
+    return minNode;
+}
+Node* D15::findMin(std::vector<Node*> unexploredNodes, std::vector<float> distances){
     Node* minNode = unexploredNodes[0];
     for(int i = 1; i < unexploredNodes.size(); i++){
         if(distances[unexploredNodes[i]->id] < distances[minNode->id]){
@@ -128,4 +169,12 @@ std::vector<std::string> D15::scale(std::vector<std::string> rawData){
         }
     }
     return result;
+}
+
+float D15::h(int source, int target, int size){
+    int x1 = source % size;
+    int y1 = source / size;
+    int x2 = target % size;
+    int y2 = target / size;
+    return sqrt(pow(x1-x2, 2) + pow(y1-y2, 2));
 }

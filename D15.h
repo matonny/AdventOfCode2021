@@ -16,8 +16,11 @@ public:
     std::vector<Node> graphify(std::vector<std::string> rawData);
     int dijkstra(std::vector<Node> graph, int target);
     Node* findMin(std::vector<Node*> unexploredNodes, std::vector<int> distances);
+    Node* findMin(std::vector<Node*> unexploredNodes, std::vector<float> distances);
     void printPath(std::vector<int> previous);
     std::vector<std::string> scale(std::vector<std::string>);
+    int aStar(std::vector<Node> graph, int target);
+    float h(int source, int target, int size);
 };
 
 
