@@ -3,4 +3,4 @@ project(AdventOfCode2021)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(AdventOfCode2021 main.cpp Reader.cpp Reader.h D1.cpp D1.h D2.cpp D2.h D3.cpp D3.h D4.cpp D4.h D5.cpp D5.h D6.cpp D6.h D7.cpp D7.h D8.cpp D8.h D9.cpp D9.h D10.cpp D10.h D11.cpp D11.h D12.cpp D12.h D13.cpp D13.h D14.cpp D14.h D15.cpp D15.h Node.cpp Node.h)
+add_executable(AdventOfCode2021 main.cpp Utils/Reader.cpp Utils/Reader.h Day1/D1.cpp Day1/D1.h Day2/D2.cpp Day2/D2.h Day3/D3.cpp Day3/D3.h Day4/D4.cpp Day4/D4.h Day5/D5.cpp Day5/D5.h Day6/D6.cpp Day6/D6.h Day7/D7.cpp Day7/D7.h Day8/D8.cpp Day8/D8.h Day9/D9.cpp Day9/D9.h Day10/D10.cpp Day10/D10.h Day11/D11.cpp Day11/D11.h Day12/D12.cpp Day12/D12.h Day13/D13.cpp Day13/D13.h Day14/D14.cpp Day14/D14.h Day15/D15.cpp Day15/D15.h Utils/Node.cpp Utils/Node.h)

@@ -129,413 +129,413 @@ AdventOfCode2021/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/build
 .PHONY : AdventOfCode2021/fast
 
-D1.o: D1.cpp.o
-.PHONY : D1.o
+Day1/D1.o: Day1/D1.cpp.o
+.PHONY : Day1/D1.o
 
 # target to build an object file
-D1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D1.cpp.o
-.PHONY : D1.cpp.o
+Day1/D1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.o
+.PHONY : Day1/D1.cpp.o
 
-D1.i: D1.cpp.i
-.PHONY : D1.i
+Day1/D1.i: Day1/D1.cpp.i
+.PHONY : Day1/D1.i
 
 # target to preprocess a source file
-D1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D1.cpp.i
-.PHONY : D1.cpp.i
+Day1/D1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.i
+.PHONY : Day1/D1.cpp.i
 
-D1.s: D1.cpp.s
-.PHONY : D1.s
+Day1/D1.s: Day1/D1.cpp.s
+.PHONY : Day1/D1.s
 
 # target to generate assembly for a file
-D1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D1.cpp.s
-.PHONY : D1.cpp.s
+Day1/D1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.s
+.PHONY : Day1/D1.cpp.s
 
-D10.o: D10.cpp.o
-.PHONY : D10.o
+Day10/D10.o: Day10/D10.cpp.o
+.PHONY : Day10/D10.o
 
 # target to build an object file
-D10.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D10.cpp.o
-.PHONY : D10.cpp.o
+Day10/D10.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.o
+.PHONY : Day10/D10.cpp.o
 
-D10.i: D10.cpp.i
-.PHONY : D10.i
+Day10/D10.i: Day10/D10.cpp.i
+.PHONY : Day10/D10.i
 
 # target to preprocess a source file
-D10.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D10.cpp.i
-.PHONY : D10.cpp.i
+Day10/D10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.i
+.PHONY : Day10/D10.cpp.i
 
-D10.s: D10.cpp.s
-.PHONY : D10.s
+Day10/D10.s: Day10/D10.cpp.s
+.PHONY : Day10/D10.s
 
 # target to generate assembly for a file
-D10.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D10.cpp.s
-.PHONY : D10.cpp.s
+Day10/D10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.s
+.PHONY : Day10/D10.cpp.s
 
-D11.o: D11.cpp.o
-.PHONY : D11.o
+Day11/D11.o: Day11/D11.cpp.o
+.PHONY : Day11/D11.o
 
 # target to build an object file
-D11.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D11.cpp.o
-.PHONY : D11.cpp.o
+Day11/D11.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.o
+.PHONY : Day11/D11.cpp.o
 
-D11.i: D11.cpp.i
-.PHONY : D11.i
+Day11/D11.i: Day11/D11.cpp.i
+.PHONY : Day11/D11.i
 
 # target to preprocess a source file
-D11.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D11.cpp.i
-.PHONY : D11.cpp.i
+Day11/D11.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.i
+.PHONY : Day11/D11.cpp.i
 
-D11.s: D11.cpp.s
-.PHONY : D11.s
+Day11/D11.s: Day11/D11.cpp.s
+.PHONY : Day11/D11.s
 
 # target to generate assembly for a file
-D11.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D11.cpp.s
-.PHONY : D11.cpp.s
+Day11/D11.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.s
+.PHONY : Day11/D11.cpp.s
 
-D12.o: D12.cpp.o
-.PHONY : D12.o
+Day12/D12.o: Day12/D12.cpp.o
+.PHONY : Day12/D12.o
 
 # target to build an object file
-D12.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D12.cpp.o
-.PHONY : D12.cpp.o
+Day12/D12.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.o
+.PHONY : Day12/D12.cpp.o
 
-D12.i: D12.cpp.i
-.PHONY : D12.i
+Day12/D12.i: Day12/D12.cpp.i
+.PHONY : Day12/D12.i
 
 # target to preprocess a source file
-D12.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D12.cpp.i
-.PHONY : D12.cpp.i
+Day12/D12.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.i
+.PHONY : Day12/D12.cpp.i
 
-D12.s: D12.cpp.s
-.PHONY : D12.s
+Day12/D12.s: Day12/D12.cpp.s
+.PHONY : Day12/D12.s
 
 # target to generate assembly for a file
-D12.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D12.cpp.s
-.PHONY : D12.cpp.s
+Day12/D12.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.s
+.PHONY : Day12/D12.cpp.s
 
-D13.o: D13.cpp.o
-.PHONY : D13.o
+Day13/D13.o: Day13/D13.cpp.o
+.PHONY : Day13/D13.o
 
 # target to build an object file
-D13.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D13.cpp.o
-.PHONY : D13.cpp.o
+Day13/D13.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.o
+.PHONY : Day13/D13.cpp.o
 
-D13.i: D13.cpp.i
-.PHONY : D13.i
+Day13/D13.i: Day13/D13.cpp.i
+.PHONY : Day13/D13.i
 
 # target to preprocess a source file
-D13.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D13.cpp.i
-.PHONY : D13.cpp.i
+Day13/D13.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.i
+.PHONY : Day13/D13.cpp.i
 
-D13.s: D13.cpp.s
-.PHONY : D13.s
+Day13/D13.s: Day13/D13.cpp.s
+.PHONY : Day13/D13.s
 
 # target to generate assembly for a file
-D13.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D13.cpp.s
-.PHONY : D13.cpp.s
+Day13/D13.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.s
+.PHONY : Day13/D13.cpp.s
 
-D14.o: D14.cpp.o
-.PHONY : D14.o
+Day14/D14.o: Day14/D14.cpp.o
+.PHONY : Day14/D14.o
 
 # target to build an object file
-D14.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D14.cpp.o
-.PHONY : D14.cpp.o
+Day14/D14.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.o
+.PHONY : Day14/D14.cpp.o
 
-D14.i: D14.cpp.i
-.PHONY : D14.i
+Day14/D14.i: Day14/D14.cpp.i
+.PHONY : Day14/D14.i
 
 # target to preprocess a source file
-D14.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D14.cpp.i
-.PHONY : D14.cpp.i
+Day14/D14.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.i
+.PHONY : Day14/D14.cpp.i
 
-D14.s: D14.cpp.s
-.PHONY : D14.s
+Day14/D14.s: Day14/D14.cpp.s
+.PHONY : Day14/D14.s
 
 # target to generate assembly for a file
-D14.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D14.cpp.s
-.PHONY : D14.cpp.s
+Day14/D14.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.s
+.PHONY : Day14/D14.cpp.s
 
-D15.o: D15.cpp.o
-.PHONY : D15.o
+Day15/D15.o: Day15/D15.cpp.o
+.PHONY : Day15/D15.o
 
 # target to build an object file
-D15.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D15.cpp.o
-.PHONY : D15.cpp.o
+Day15/D15.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.o
+.PHONY : Day15/D15.cpp.o
 
-D15.i: D15.cpp.i
-.PHONY : D15.i
+Day15/D15.i: Day15/D15.cpp.i
+.PHONY : Day15/D15.i
 
 # target to preprocess a source file
-D15.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D15.cpp.i
-.PHONY : D15.cpp.i
+Day15/D15.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.i
+.PHONY : Day15/D15.cpp.i
 
-D15.s: D15.cpp.s
-.PHONY : D15.s
+Day15/D15.s: Day15/D15.cpp.s
+.PHONY : Day15/D15.s
 
 # target to generate assembly for a file
-D15.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D15.cpp.s
-.PHONY : D15.cpp.s
+Day15/D15.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.s
+.PHONY : Day15/D15.cpp.s
 
-D2.o: D2.cpp.o
-.PHONY : D2.o
+Day2/D2.o: Day2/D2.cpp.o
+.PHONY : Day2/D2.o
 
 # target to build an object file
-D2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D2.cpp.o
-.PHONY : D2.cpp.o
+Day2/D2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.o
+.PHONY : Day2/D2.cpp.o
 
-D2.i: D2.cpp.i
-.PHONY : D2.i
+Day2/D2.i: Day2/D2.cpp.i
+.PHONY : Day2/D2.i
 
 # target to preprocess a source file
-D2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D2.cpp.i
-.PHONY : D2.cpp.i
+Day2/D2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.i
+.PHONY : Day2/D2.cpp.i
 
-D2.s: D2.cpp.s
-.PHONY : D2.s
+Day2/D2.s: Day2/D2.cpp.s
+.PHONY : Day2/D2.s
 
 # target to generate assembly for a file
-D2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D2.cpp.s
-.PHONY : D2.cpp.s
+Day2/D2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.s
+.PHONY : Day2/D2.cpp.s
 
-D3.o: D3.cpp.o
-.PHONY : D3.o
+Day3/D3.o: Day3/D3.cpp.o
+.PHONY : Day3/D3.o
 
 # target to build an object file
-D3.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D3.cpp.o
-.PHONY : D3.cpp.o
+Day3/D3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.o
+.PHONY : Day3/D3.cpp.o
 
-D3.i: D3.cpp.i
-.PHONY : D3.i
+Day3/D3.i: Day3/D3.cpp.i
+.PHONY : Day3/D3.i
 
 # target to preprocess a source file
-D3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D3.cpp.i
-.PHONY : D3.cpp.i
+Day3/D3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.i
+.PHONY : Day3/D3.cpp.i
 
-D3.s: D3.cpp.s
-.PHONY : D3.s
+Day3/D3.s: Day3/D3.cpp.s
+.PHONY : Day3/D3.s
 
 # target to generate assembly for a file
-D3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D3.cpp.s
-.PHONY : D3.cpp.s
+Day3/D3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.s
+.PHONY : Day3/D3.cpp.s
 
-D4.o: D4.cpp.o
-.PHONY : D4.o
+Day4/D4.o: Day4/D4.cpp.o
+.PHONY : Day4/D4.o
 
 # target to build an object file
-D4.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D4.cpp.o
-.PHONY : D4.cpp.o
+Day4/D4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.o
+.PHONY : Day4/D4.cpp.o
 
-D4.i: D4.cpp.i
-.PHONY : D4.i
+Day4/D4.i: Day4/D4.cpp.i
+.PHONY : Day4/D4.i
 
 # target to preprocess a source file
-D4.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D4.cpp.i
-.PHONY : D4.cpp.i
+Day4/D4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.i
+.PHONY : Day4/D4.cpp.i
 
-D4.s: D4.cpp.s
-.PHONY : D4.s
+Day4/D4.s: Day4/D4.cpp.s
+.PHONY : Day4/D4.s
 
 # target to generate assembly for a file
-D4.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D4.cpp.s
-.PHONY : D4.cpp.s
+Day4/D4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.s
+.PHONY : Day4/D4.cpp.s
 
-D5.o: D5.cpp.o
-.PHONY : D5.o
+Day5/D5.o: Day5/D5.cpp.o
+.PHONY : Day5/D5.o
 
 # target to build an object file
-D5.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D5.cpp.o
-.PHONY : D5.cpp.o
+Day5/D5.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.o
+.PHONY : Day5/D5.cpp.o
 
-D5.i: D5.cpp.i
-.PHONY : D5.i
+Day5/D5.i: Day5/D5.cpp.i
+.PHONY : Day5/D5.i
 
 # target to preprocess a source file
-D5.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D5.cpp.i
-.PHONY : D5.cpp.i
+Day5/D5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.i
+.PHONY : Day5/D5.cpp.i
 
-D5.s: D5.cpp.s
-.PHONY : D5.s
+Day5/D5.s: Day5/D5.cpp.s
+.PHONY : Day5/D5.s
 
 # target to generate assembly for a file
-D5.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D5.cpp.s
-.PHONY : D5.cpp.s
+Day5/D5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.s
+.PHONY : Day5/D5.cpp.s
 
-D6.o: D6.cpp.o
-.PHONY : D6.o
+Day6/D6.o: Day6/D6.cpp.o
+.PHONY : Day6/D6.o
 
 # target to build an object file
-D6.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D6.cpp.o
-.PHONY : D6.cpp.o
+Day6/D6.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.o
+.PHONY : Day6/D6.cpp.o
 
-D6.i: D6.cpp.i
-.PHONY : D6.i
+Day6/D6.i: Day6/D6.cpp.i
+.PHONY : Day6/D6.i
 
 # target to preprocess a source file
-D6.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D6.cpp.i
-.PHONY : D6.cpp.i
+Day6/D6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.i
+.PHONY : Day6/D6.cpp.i
 
-D6.s: D6.cpp.s
-.PHONY : D6.s
+Day6/D6.s: Day6/D6.cpp.s
+.PHONY : Day6/D6.s
 
 # target to generate assembly for a file
-D6.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D6.cpp.s
-.PHONY : D6.cpp.s
+Day6/D6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.s
+.PHONY : Day6/D6.cpp.s
 
-D7.o: D7.cpp.o
-.PHONY : D7.o
+Day7/D7.o: Day7/D7.cpp.o
+.PHONY : Day7/D7.o
 
 # target to build an object file
-D7.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D7.cpp.o
-.PHONY : D7.cpp.o
+Day7/D7.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.o
+.PHONY : Day7/D7.cpp.o
 
-D7.i: D7.cpp.i
-.PHONY : D7.i
+Day7/D7.i: Day7/D7.cpp.i
+.PHONY : Day7/D7.i
 
 # target to preprocess a source file
-D7.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D7.cpp.i
-.PHONY : D7.cpp.i
+Day7/D7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.i
+.PHONY : Day7/D7.cpp.i
 
-D7.s: D7.cpp.s
-.PHONY : D7.s
+Day7/D7.s: Day7/D7.cpp.s
+.PHONY : Day7/D7.s
 
 # target to generate assembly for a file
-D7.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D7.cpp.s
-.PHONY : D7.cpp.s
+Day7/D7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.s
+.PHONY : Day7/D7.cpp.s
 
-D8.o: D8.cpp.o
-.PHONY : D8.o
+Day8/D8.o: Day8/D8.cpp.o
+.PHONY : Day8/D8.o
 
 # target to build an object file
-D8.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D8.cpp.o
-.PHONY : D8.cpp.o
+Day8/D8.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.o
+.PHONY : Day8/D8.cpp.o
 
-D8.i: D8.cpp.i
-.PHONY : D8.i
+Day8/D8.i: Day8/D8.cpp.i
+.PHONY : Day8/D8.i
 
 # target to preprocess a source file
-D8.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D8.cpp.i
-.PHONY : D8.cpp.i
+Day8/D8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.i
+.PHONY : Day8/D8.cpp.i
 
-D8.s: D8.cpp.s
-.PHONY : D8.s
+Day8/D8.s: Day8/D8.cpp.s
+.PHONY : Day8/D8.s
 
 # target to generate assembly for a file
-D8.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D8.cpp.s
-.PHONY : D8.cpp.s
+Day8/D8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.s
+.PHONY : Day8/D8.cpp.s
 
-D9.o: D9.cpp.o
-.PHONY : D9.o
+Day9/D9.o: Day9/D9.cpp.o
+.PHONY : Day9/D9.o
 
 # target to build an object file
-D9.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D9.cpp.o
-.PHONY : D9.cpp.o
+Day9/D9.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.o
+.PHONY : Day9/D9.cpp.o
 
-D9.i: D9.cpp.i
-.PHONY : D9.i
+Day9/D9.i: Day9/D9.cpp.i
+.PHONY : Day9/D9.i
 
 # target to preprocess a source file
-D9.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D9.cpp.i
-.PHONY : D9.cpp.i
+Day9/D9.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.i
+.PHONY : Day9/D9.cpp.i
 
-D9.s: D9.cpp.s
-.PHONY : D9.s
+Day9/D9.s: Day9/D9.cpp.s
+.PHONY : Day9/D9.s
 
 # target to generate assembly for a file
-D9.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/D9.cpp.s
-.PHONY : D9.cpp.s
+Day9/D9.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.s
+.PHONY : Day9/D9.cpp.s
 
-Node.o: Node.cpp.o
-.PHONY : Node.o
+Utils/Node.o: Utils/Node.cpp.o
+.PHONY : Utils/Node.o
 
 # target to build an object file
-Node.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Node.cpp.o
-.PHONY : Node.cpp.o
+Utils/Node.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.o
+.PHONY : Utils/Node.cpp.o
 
-Node.i: Node.cpp.i
-.PHONY : Node.i
+Utils/Node.i: Utils/Node.cpp.i
+.PHONY : Utils/Node.i
 
 # target to preprocess a source file
-Node.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Node.cpp.i
-.PHONY : Node.cpp.i
+Utils/Node.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.i
+.PHONY : Utils/Node.cpp.i
 
-Node.s: Node.cpp.s
-.PHONY : Node.s
+Utils/Node.s: Utils/Node.cpp.s
+.PHONY : Utils/Node.s
 
 # target to generate assembly for a file
-Node.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Node.cpp.s
-.PHONY : Node.cpp.s
+Utils/Node.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.s
+.PHONY : Utils/Node.cpp.s
 
-Reader.o: Reader.cpp.o
-.PHONY : Reader.o
+Utils/Reader.o: Utils/Reader.cpp.o
+.PHONY : Utils/Reader.o
 
 # target to build an object file
-Reader.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Reader.cpp.o
-.PHONY : Reader.cpp.o
+Utils/Reader.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.o
+.PHONY : Utils/Reader.cpp.o
 
-Reader.i: Reader.cpp.i
-.PHONY : Reader.i
+Utils/Reader.i: Utils/Reader.cpp.i
+.PHONY : Utils/Reader.i
 
 # target to preprocess a source file
-Reader.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Reader.cpp.i
-.PHONY : Reader.cpp.i
+Utils/Reader.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.i
+.PHONY : Utils/Reader.cpp.i
 
-Reader.s: Reader.cpp.s
-.PHONY : Reader.s
+Utils/Reader.s: Utils/Reader.cpp.s
+.PHONY : Utils/Reader.s
 
 # target to generate assembly for a file
-Reader.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Reader.cpp.s
-.PHONY : Reader.cpp.s
+Utils/Reader.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdventOfCode2021.dir/build.make CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.s
+.PHONY : Utils/Reader.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -570,57 +570,57 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... AdventOfCode2021"
-	@echo "... D1.o"
-	@echo "... D1.i"
-	@echo "... D1.s"
-	@echo "... D10.o"
-	@echo "... D10.i"
-	@echo "... D10.s"
-	@echo "... D11.o"
-	@echo "... D11.i"
-	@echo "... D11.s"
-	@echo "... D12.o"
-	@echo "... D12.i"
-	@echo "... D12.s"
-	@echo "... D13.o"
-	@echo "... D13.i"
-	@echo "... D13.s"
-	@echo "... D14.o"
-	@echo "... D14.i"
-	@echo "... D14.s"
-	@echo "... D15.o"
-	@echo "... D15.i"
-	@echo "... D15.s"
-	@echo "... D2.o"
-	@echo "... D2.i"
-	@echo "... D2.s"
-	@echo "... D3.o"
-	@echo "... D3.i"
-	@echo "... D3.s"
-	@echo "... D4.o"
-	@echo "... D4.i"
-	@echo "... D4.s"
-	@echo "... D5.o"
-	@echo "... D5.i"
-	@echo "... D5.s"
-	@echo "... D6.o"
-	@echo "... D6.i"
-	@echo "... D6.s"
-	@echo "... D7.o"
-	@echo "... D7.i"
-	@echo "... D7.s"
-	@echo "... D8.o"
-	@echo "... D8.i"
-	@echo "... D8.s"
-	@echo "... D9.o"
-	@echo "... D9.i"
-	@echo "... D9.s"
-	@echo "... Node.o"
-	@echo "... Node.i"
-	@echo "... Node.s"
-	@echo "... Reader.o"
-	@echo "... Reader.i"
-	@echo "... Reader.s"
+	@echo "... Day1/D1.o"
+	@echo "... Day1/D1.i"
+	@echo "... Day1/D1.s"
+	@echo "... Day10/D10.o"
+	@echo "... Day10/D10.i"
+	@echo "... Day10/D10.s"
+	@echo "... Day11/D11.o"
+	@echo "... Day11/D11.i"
+	@echo "... Day11/D11.s"
+	@echo "... Day12/D12.o"
+	@echo "... Day12/D12.i"
+	@echo "... Day12/D12.s"
+	@echo "... Day13/D13.o"
+	@echo "... Day13/D13.i"
+	@echo "... Day13/D13.s"
+	@echo "... Day14/D14.o"
+	@echo "... Day14/D14.i"
+	@echo "... Day14/D14.s"
+	@echo "... Day15/D15.o"
+	@echo "... Day15/D15.i"
+	@echo "... Day15/D15.s"
+	@echo "... Day2/D2.o"
+	@echo "... Day2/D2.i"
+	@echo "... Day2/D2.s"
+	@echo "... Day3/D3.o"
+	@echo "... Day3/D3.i"
+	@echo "... Day3/D3.s"
+	@echo "... Day4/D4.o"
+	@echo "... Day4/D4.i"
+	@echo "... Day4/D4.s"
+	@echo "... Day5/D5.o"
+	@echo "... Day5/D5.i"
+	@echo "... Day5/D5.s"
+	@echo "... Day6/D6.o"
+	@echo "... Day6/D6.i"
+	@echo "... Day6/D6.s"
+	@echo "... Day7/D7.o"
+	@echo "... Day7/D7.i"
+	@echo "... Day7/D7.s"
+	@echo "... Day8/D8.o"
+	@echo "... Day8/D8.i"
+	@echo "... Day8/D8.s"
+	@echo "... Day9/D9.o"
+	@echo "... Day9/D9.i"
+	@echo "... Day9/D9.s"
+	@echo "... Utils/Node.o"
+	@echo "... Utils/Node.i"
+	@echo "... Utils/Node.s"
+	@echo "... Utils/Reader.o"
+	@echo "... Utils/Reader.i"
+	@echo "... Utils/Reader.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

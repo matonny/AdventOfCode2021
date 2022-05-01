@@ -223,29 +223,36 @@ CMakeFiles/AdventOfCode2021.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/bitset \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__bit_reference \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D1.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/Reader.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day1/D1.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day1/../Utils/Reader.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__split_buffer \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D2.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D3.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D4.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D5.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D6.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D7.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D8.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day2/D2.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day3/D3.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day4/D4.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day5/D5.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day6/D6.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day7/D7.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day8/D8.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/map \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__tree \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__node_handle \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/optional \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D9.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D10.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day9/D9.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day9/../Utils/Reader.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day10/D10.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/stack \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/deque \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D11.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D12.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day10/../Utils/Reader.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day11/D11.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day11/../Utils/Reader.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day12/D12.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/queue \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D13.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D14.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/D15.h \
-  /Users/mateusz/Documents/C++/AdventOfCode2021/Node.h
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day12/../Utils/Reader.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day13/D13.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day13/../Utils/Reader.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day14/D14.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day14/../Utils/Reader.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day15/D15.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day15/../Utils/Reader.h \
+  /Users/mateusz/Documents/C++/AdventOfCode2021/Day15/../Utils/Node.h

@@ -83,286 +83,286 @@ CMakeFiles/AdventOfCode2021.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/main.cpp -o CMakeFiles/AdventOfCode2021.dir/main.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/Reader.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/Reader.cpp.o: ../Reader.cpp
-CMakeFiles/AdventOfCode2021.dir/Reader.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Reader.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Reader.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Reader.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Reader.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Reader.cpp
+CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.o: ../Utils/Reader.cpp
+CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Utils/Reader.cpp
 
-CMakeFiles/AdventOfCode2021.dir/Reader.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Reader.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Reader.cpp > CMakeFiles/AdventOfCode2021.dir/Reader.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Utils/Reader.cpp > CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/Reader.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Reader.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Reader.cpp -o CMakeFiles/AdventOfCode2021.dir/Reader.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Utils/Reader.cpp -o CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/D1.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/D1.cpp.o: ../D1.cpp
-CMakeFiles/AdventOfCode2021.dir/D1.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AdventOfCode2021.dir/D1.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/D1.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/D1.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/D1.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/D1.cpp
+CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.o: ../Day1/D1.cpp
+CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Day1/D1.cpp
 
-CMakeFiles/AdventOfCode2021.dir/D1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/D1.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/D1.cpp > CMakeFiles/AdventOfCode2021.dir/D1.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Day1/D1.cpp > CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/D1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/D1.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/D1.cpp -o CMakeFiles/AdventOfCode2021.dir/D1.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Day1/D1.cpp -o CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/D2.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/D2.cpp.o: ../D2.cpp
-CMakeFiles/AdventOfCode2021.dir/D2.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AdventOfCode2021.dir/D2.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/D2.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/D2.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/D2.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/D2.cpp
+CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.o: ../Day2/D2.cpp
+CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Day2/D2.cpp
 
-CMakeFiles/AdventOfCode2021.dir/D2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/D2.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/D2.cpp > CMakeFiles/AdventOfCode2021.dir/D2.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Day2/D2.cpp > CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/D2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/D2.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/D2.cpp -o CMakeFiles/AdventOfCode2021.dir/D2.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Day2/D2.cpp -o CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/D3.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/D3.cpp.o: ../D3.cpp
-CMakeFiles/AdventOfCode2021.dir/D3.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/AdventOfCode2021.dir/D3.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/D3.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/D3.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/D3.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/D3.cpp
+CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.o: ../Day3/D3.cpp
+CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Day3/D3.cpp
 
-CMakeFiles/AdventOfCode2021.dir/D3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/D3.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/D3.cpp > CMakeFiles/AdventOfCode2021.dir/D3.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Day3/D3.cpp > CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/D3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/D3.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/D3.cpp -o CMakeFiles/AdventOfCode2021.dir/D3.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Day3/D3.cpp -o CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/D4.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/D4.cpp.o: ../D4.cpp
-CMakeFiles/AdventOfCode2021.dir/D4.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/AdventOfCode2021.dir/D4.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/D4.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/D4.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/D4.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/D4.cpp
+CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.o: ../Day4/D4.cpp
+CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Day4/D4.cpp
 
-CMakeFiles/AdventOfCode2021.dir/D4.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/D4.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/D4.cpp > CMakeFiles/AdventOfCode2021.dir/D4.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Day4/D4.cpp > CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/D4.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/D4.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/D4.cpp -o CMakeFiles/AdventOfCode2021.dir/D4.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Day4/D4.cpp -o CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/D5.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/D5.cpp.o: ../D5.cpp
-CMakeFiles/AdventOfCode2021.dir/D5.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/AdventOfCode2021.dir/D5.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/D5.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/D5.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/D5.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/D5.cpp
+CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.o: ../Day5/D5.cpp
+CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Day5/D5.cpp
 
-CMakeFiles/AdventOfCode2021.dir/D5.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/D5.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/D5.cpp > CMakeFiles/AdventOfCode2021.dir/D5.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Day5/D5.cpp > CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/D5.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/D5.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/D5.cpp -o CMakeFiles/AdventOfCode2021.dir/D5.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Day5/D5.cpp -o CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/D6.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/D6.cpp.o: ../D6.cpp
-CMakeFiles/AdventOfCode2021.dir/D6.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/AdventOfCode2021.dir/D6.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/D6.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/D6.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/D6.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/D6.cpp
+CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.o: ../Day6/D6.cpp
+CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Day6/D6.cpp
 
-CMakeFiles/AdventOfCode2021.dir/D6.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/D6.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/D6.cpp > CMakeFiles/AdventOfCode2021.dir/D6.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Day6/D6.cpp > CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/D6.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/D6.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/D6.cpp -o CMakeFiles/AdventOfCode2021.dir/D6.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Day6/D6.cpp -o CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/D7.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/D7.cpp.o: ../D7.cpp
-CMakeFiles/AdventOfCode2021.dir/D7.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/AdventOfCode2021.dir/D7.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/D7.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/D7.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/D7.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/D7.cpp
+CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.o: ../Day7/D7.cpp
+CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Day7/D7.cpp
 
-CMakeFiles/AdventOfCode2021.dir/D7.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/D7.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/D7.cpp > CMakeFiles/AdventOfCode2021.dir/D7.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Day7/D7.cpp > CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/D7.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/D7.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/D7.cpp -o CMakeFiles/AdventOfCode2021.dir/D7.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Day7/D7.cpp -o CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/D8.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/D8.cpp.o: ../D8.cpp
-CMakeFiles/AdventOfCode2021.dir/D8.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/AdventOfCode2021.dir/D8.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/D8.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/D8.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/D8.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/D8.cpp
+CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.o: ../Day8/D8.cpp
+CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Day8/D8.cpp
 
-CMakeFiles/AdventOfCode2021.dir/D8.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/D8.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/D8.cpp > CMakeFiles/AdventOfCode2021.dir/D8.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Day8/D8.cpp > CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/D8.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/D8.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/D8.cpp -o CMakeFiles/AdventOfCode2021.dir/D8.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Day8/D8.cpp -o CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/D9.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/D9.cpp.o: ../D9.cpp
-CMakeFiles/AdventOfCode2021.dir/D9.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/AdventOfCode2021.dir/D9.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/D9.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/D9.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/D9.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/D9.cpp
+CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.o: ../Day9/D9.cpp
+CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Day9/D9.cpp
 
-CMakeFiles/AdventOfCode2021.dir/D9.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/D9.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/D9.cpp > CMakeFiles/AdventOfCode2021.dir/D9.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Day9/D9.cpp > CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/D9.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/D9.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/D9.cpp -o CMakeFiles/AdventOfCode2021.dir/D9.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Day9/D9.cpp -o CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/D10.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/D10.cpp.o: ../D10.cpp
-CMakeFiles/AdventOfCode2021.dir/D10.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/AdventOfCode2021.dir/D10.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/D10.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/D10.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/D10.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/D10.cpp
+CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.o: ../Day10/D10.cpp
+CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Day10/D10.cpp
 
-CMakeFiles/AdventOfCode2021.dir/D10.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/D10.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/D10.cpp > CMakeFiles/AdventOfCode2021.dir/D10.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Day10/D10.cpp > CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/D10.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/D10.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/D10.cpp -o CMakeFiles/AdventOfCode2021.dir/D10.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Day10/D10.cpp -o CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/D11.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/D11.cpp.o: ../D11.cpp
-CMakeFiles/AdventOfCode2021.dir/D11.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/AdventOfCode2021.dir/D11.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/D11.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/D11.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/D11.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/D11.cpp
+CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.o: ../Day11/D11.cpp
+CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Day11/D11.cpp
 
-CMakeFiles/AdventOfCode2021.dir/D11.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/D11.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/D11.cpp > CMakeFiles/AdventOfCode2021.dir/D11.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Day11/D11.cpp > CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/D11.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/D11.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/D11.cpp -o CMakeFiles/AdventOfCode2021.dir/D11.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Day11/D11.cpp -o CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/D12.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/D12.cpp.o: ../D12.cpp
-CMakeFiles/AdventOfCode2021.dir/D12.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/AdventOfCode2021.dir/D12.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/D12.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/D12.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/D12.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/D12.cpp
+CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.o: ../Day12/D12.cpp
+CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Day12/D12.cpp
 
-CMakeFiles/AdventOfCode2021.dir/D12.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/D12.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/D12.cpp > CMakeFiles/AdventOfCode2021.dir/D12.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Day12/D12.cpp > CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/D12.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/D12.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/D12.cpp -o CMakeFiles/AdventOfCode2021.dir/D12.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Day12/D12.cpp -o CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/D13.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/D13.cpp.o: ../D13.cpp
-CMakeFiles/AdventOfCode2021.dir/D13.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/AdventOfCode2021.dir/D13.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/D13.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/D13.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/D13.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/D13.cpp
+CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.o: ../Day13/D13.cpp
+CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Day13/D13.cpp
 
-CMakeFiles/AdventOfCode2021.dir/D13.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/D13.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/D13.cpp > CMakeFiles/AdventOfCode2021.dir/D13.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Day13/D13.cpp > CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/D13.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/D13.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/D13.cpp -o CMakeFiles/AdventOfCode2021.dir/D13.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Day13/D13.cpp -o CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/D14.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/D14.cpp.o: ../D14.cpp
-CMakeFiles/AdventOfCode2021.dir/D14.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/AdventOfCode2021.dir/D14.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/D14.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/D14.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/D14.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/D14.cpp
+CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.o: ../Day14/D14.cpp
+CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Day14/D14.cpp
 
-CMakeFiles/AdventOfCode2021.dir/D14.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/D14.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/D14.cpp > CMakeFiles/AdventOfCode2021.dir/D14.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Day14/D14.cpp > CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/D14.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/D14.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/D14.cpp -o CMakeFiles/AdventOfCode2021.dir/D14.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Day14/D14.cpp -o CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/D15.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/D15.cpp.o: ../D15.cpp
-CMakeFiles/AdventOfCode2021.dir/D15.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/AdventOfCode2021.dir/D15.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/D15.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/D15.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/D15.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/D15.cpp
+CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.o: ../Day15/D15.cpp
+CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Day15/D15.cpp
 
-CMakeFiles/AdventOfCode2021.dir/D15.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/D15.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/D15.cpp > CMakeFiles/AdventOfCode2021.dir/D15.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Day15/D15.cpp > CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/D15.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/D15.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/D15.cpp -o CMakeFiles/AdventOfCode2021.dir/D15.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Day15/D15.cpp -o CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.s
 
-CMakeFiles/AdventOfCode2021.dir/Node.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
-CMakeFiles/AdventOfCode2021.dir/Node.cpp.o: ../Node.cpp
-CMakeFiles/AdventOfCode2021.dir/Node.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Node.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Node.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Node.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Node.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Node.cpp
+CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.o: CMakeFiles/AdventOfCode2021.dir/flags.make
+CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.o: ../Utils/Node.cpp
+CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.o: CMakeFiles/AdventOfCode2021.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.o -MF CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.o.d -o CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.o -c /Users/mateusz/Documents/C++/AdventOfCode2021/Utils/Node.cpp
 
-CMakeFiles/AdventOfCode2021.dir/Node.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Node.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Node.cpp > CMakeFiles/AdventOfCode2021.dir/Node.cpp.i
+CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mateusz/Documents/C++/AdventOfCode2021/Utils/Node.cpp > CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.i
 
-CMakeFiles/AdventOfCode2021.dir/Node.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Node.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Node.cpp -o CMakeFiles/AdventOfCode2021.dir/Node.cpp.s
+CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mateusz/Documents/C++/AdventOfCode2021/Utils/Node.cpp -o CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.s
 
 # Object files for target AdventOfCode2021
 AdventOfCode2021_OBJECTS = \
 "CMakeFiles/AdventOfCode2021.dir/main.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/Reader.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/D1.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/D2.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/D3.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/D4.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/D5.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/D6.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/D7.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/D8.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/D9.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/D10.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/D11.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/D12.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/D13.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/D14.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/D15.cpp.o" \
-"CMakeFiles/AdventOfCode2021.dir/Node.cpp.o"
+"CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.o" \
+"CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.o"
 
 # External object files for target AdventOfCode2021
 AdventOfCode2021_EXTERNAL_OBJECTS =
 
 AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/main.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Reader.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/D1.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/D2.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/D3.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/D4.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/D5.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/D6.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/D7.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/D8.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/D9.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/D10.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/D11.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/D12.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/D13.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/D14.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/D15.cpp.o
-AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Node.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Utils/Reader.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Day1/D1.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Day2/D2.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Day3/D3.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Day4/D4.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Day5/D5.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Day6/D6.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Day7/D7.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Day8/D8.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Day9/D9.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Day10/D10.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Day11/D11.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Day12/D12.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Day13/D13.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Day14/D14.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Day15/D15.cpp.o
+AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/Utils/Node.cpp.o
 AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/build.make
 AdventOfCode2021: CMakeFiles/AdventOfCode2021.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mateusz/Documents/C++/AdventOfCode2021/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable AdventOfCode2021"
